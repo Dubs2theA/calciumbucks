@@ -42,6 +42,7 @@ body {
 
 .topMenu a:hover {
   background-color: white;
+  zoom: 5%;
   color: black;
 }
 
